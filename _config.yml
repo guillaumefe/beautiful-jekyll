@@ -13,8 +13,8 @@ author: OpenStopCovid
 
 navbar-links:
   A propos: "aboutus"
-  Infos: "README"
   Resources:
+    - README: "README"
     - Application mobile: "https://github.com/fmauquie/react-native-dp3t"
     - Serveur de l'application: "https://github.com/OpenStopCovid/dp3t-ms"
     - Interface médecin: "https://github.com/OpenStopCovid/health-authority-ui"
